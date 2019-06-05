@@ -1,0 +1,62 @@
+body {
+    margin: 0 auto;
+    background: #303030;
+}
+
+h1 {
+    color: white;
+    /*margin-left: 39%;*/
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+}
+
+h2 {
+    color: white;
+    /*margin-left: 39%;*/
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+}
+
+ul {
+    color: white;
+    /* margin-left: 40%; */
+    font-family: 'Roboto', sans-serif;
+    /* text-align: center; */
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 46%;
+}
+
+li, a {
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none !important;
+    /*margin-left: 40%;*/
+}
+
+
+p, form {
+    color: white;
+    /*margin-left: 35%;*/
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+}
+
+input {
+    margin-top: 1%;
+    /*margin-left: 12%;*/
+    text-align: center;
+}
+
+table {
+    color: #FFFFFF;
+    position: center;
+    margin-left: 37%;
+}
+
+a[href="../gar-menu.php"] {
+    margin-left: 46%;
+}
